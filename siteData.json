@@ -1,0 +1,34 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "contents/topic1.md",
+      "title": "",
+      "headings": {
+        "topic-1": "Topic 1",
+        "topic-1-2": "Topic 1",
+        "topic-1-3": "Topic 1",
+        "topic-1-4": "Topic 1"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic2.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    }
+  ]
+}
