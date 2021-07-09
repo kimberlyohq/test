@@ -5,10 +5,7 @@
       "src": "contents/topic1.md",
       "title": "",
       "headings": {
-        "topic-1": "Topic 1",
-        "topic-1-2": "Topic 1",
-        "topic-1-3": "Topic 1",
-        "topic-1-4": "Topic 1"
+        "topic-1": "Topic 1"
       },
       "headingKeywords": {}
     },
@@ -28,6 +25,18 @@
       "src": "contents/topic3b.md",
       "title": "",
       "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Landing Page",
+      "headings": {
+        "heading-1": "Heading 1",
+        "sub-heading-1-1": "Sub Heading 1.1",
+        "sub-heading-1-2": "Sub Heading 1.2",
+        "heading-2": "Heading 2",
+        "heading-3": "Heading 3"
+      },
       "headingKeywords": {}
     }
   ]
